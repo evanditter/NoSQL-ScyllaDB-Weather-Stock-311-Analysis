@@ -1,4 +1,4 @@
-*** NoSQL ScyllaDB Project***
+***NoSQL ScyllaDB Project***
 
 The main purpose of this project was to get familiar with a NoSQL storage technology. ScyllaDB is a column-family storage NoSQL technology based off Cassandra but is supposed to be up to 10x more efficient. 
 
