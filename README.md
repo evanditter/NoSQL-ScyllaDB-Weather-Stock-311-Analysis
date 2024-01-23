@@ -1,4 +1,4 @@
-# NoSQL ScyllaDB Project
+# NoSQL ScyllaDB Stock Prediction Analysis off NYC 311 Requests and Weather
 
 ### What was the purpose of this project?
 The main purpose of this project was to 2-fold. 
